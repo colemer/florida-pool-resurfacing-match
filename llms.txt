@@ -1,0 +1,34 @@
+# Florida Pool Resurfacing Match
+
+> Florida Pool Resurfacing Match is a free referral service that connects Florida homeowners with up to 3 independent local pool resurfacing and repair companies. It is not a contractor and does not perform pool resurfacing and repair work. Content cites Florida statutes, utility water-quality reports and city/county permit offices, and labels national estimates as such.
+
+Last updated: 2026-11-21
+
+## Key facts (sourced on the linked pages)
+- Florida's pool/spa servicing contractor scope includes interior refinishing, repair or replacement of existing equipment and substantial draining of a pool for repair or renovation, s. 489.105(3) F.S.
+- Atlantic Beach lists pools more than 24 inches deep among residential work requiring a building permit; Neptune Beach lists swimming pools.
+- Angi 2026 national average for pool resurfacing: $11,000 (range $6,000-$15,000).
+
+## Guides
+- [Who can resurface a pool in Florida? License rules explained](https://colemer.github.io/florida-pool-resurfacing-match/guides/florida-pool-contractor-license-rules/): What Florida's pool/spa contractor definitions cover, what they exclude, and how to check a license.
+- [Your pool's fill water in Northeast Florida: hardness by utility](https://colemer.github.io/florida-pool-resurfacing-match/guides/northeast-florida-pool-fill-water/): Published hardness and treatment for JEA ZIP codes and local city systems, useful when you refill after resurfacing.
+
+## Service areas
+- [Pool Resurfacing & Repair in St. Augustine, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/st-augustine/): Fill water here comes from City of St. Augustine Utilities; Florida treats resurfacing as licensed pool/spa contractor work.
+- [Pool Resurfacing & Repair in World Golf Village, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/world-golf-village/): Fill water here comes from JEA or St. Johns County Utility, depending on address; Florida treats resurfacing as licensed pool/spa contractor work.
+- [Pool Resurfacing & Repair in Atlantic Beach & Neptune Beach, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/atlantic-beach-neptune-beach/): Fill water here comes from City of Atlantic Beach / City of Neptune Beach; Florida treats resurfacing as licensed pool/spa contractor work.
+- [Pool Resurfacing & Repair in Fleming Island, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/fleming-island/): Fill water here comes from Clay County Utility Authority (CCUA); Florida treats resurfacing as licensed pool/spa contractor work.
+- [Pool Resurfacing & Repair in Orange Park, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/orange-park/): Fill water here comes from Town of Orange Park (in town); JEA or CCUA nearby; Florida treats resurfacing as licensed pool/spa contractor work.
+- [Pool Resurfacing & Repair in Fernandina Beach, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/fernandina-beach/): Fill water here comes from City of Fernandina Beach; Florida treats resurfacing as licensed pool/spa contractor work.
+
+## Services
+- [Pool Resurfacing & Replastering](https://colemer.github.io/florida-pool-resurfacing-match/services/pool-resurfacing/)
+- [Tile & Coping](https://colemer.github.io/florida-pool-resurfacing-match/services/pool-tile-coping/)
+- [Leak & Crack Repair](https://colemer.github.io/florida-pool-resurfacing-match/services/pool-leak-repair/)
+- [Pool Equipment (pump, filter, heater)](https://colemer.github.io/florida-pool-resurfacing-match/services/pool-equipment/)
+
+## About
+- [About and how it works](https://colemer.github.io/florida-pool-resurfacing-match/about/)
+- [Partner contractors](https://colemer.github.io/florida-pool-resurfacing-match/partners/)
+- [Privacy](https://colemer.github.io/florida-pool-resurfacing-match/privacy/)
+- [Terms](https://colemer.github.io/florida-pool-resurfacing-match/terms/)

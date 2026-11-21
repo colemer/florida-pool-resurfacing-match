@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /florida-pool-resurfacing-match/thank-you/
+
+Sitemap: https://colemer.github.io/florida-pool-resurfacing-match/sitemap.xml
