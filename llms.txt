@@ -20,6 +20,18 @@ Last updated: 2026-11-21
 - [Pool Resurfacing & Repair in Fleming Island, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/fleming-island/): Fill water here comes from Clay County Utility Authority (CCUA); Florida treats resurfacing as licensed pool/spa contractor work.
 - [Pool Resurfacing & Repair in Orange Park, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/orange-park/): Fill water here comes from Town of Orange Park (in town); JEA or CCUA nearby; Florida treats resurfacing as licensed pool/spa contractor work.
 - [Pool Resurfacing & Repair in Fernandina Beach, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/fernandina-beach/): Fill water here comes from City of Fernandina Beach; Florida treats resurfacing as licensed pool/spa contractor work.
+- [Pool Resurfacing & Repair in Tampa, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/tampa/): Fill water: City of Tampa reported 12.3 grains per gallon (211 mg/L) for 2025.
+- [Pool Resurfacing & Repair in St. Petersburg, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/st-petersburg/): Fill water: Tampa Bay Water blend at 158 mg/L hardness and pH 8.2 (2025 averages).
+- [Pool Resurfacing & Repair in Clearwater, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/clearwater/): Fill water is city RO-treated well water; pool installation is on Clearwater's permit list.
+- [Pool Resurfacing & Repair in Largo, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/largo/): Largo pool/spa permits need a Duke Energy No Conflict letter and a Pool/Spa Safety Act affidavit.
+- [Pool Resurfacing & Repair in Dunedin, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/dunedin/): Fill water is Dunedin's RO-treated well water; pool permits use a fence/enclosure affidavit.
+- [Pool Resurfacing & Repair in Tarpon Springs, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/tarpon-springs/): Fill water: Tarpon Springs RO water, about 45 mg/L calcium hardness target.
+- [Pool Resurfacing & Repair in Winter Park, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/winter-park/): Fill water: Winter Park's ozone-treated lower Floridan wells; pools count toward the 50% impervious cap.
+- [Pool Resurfacing & Repair in Oviedo, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/oviedo/): Fill water: Oviedo's 10 Floridan wells, aerated and chloramine-disinfected.
+- [Pool Resurfacing & Repair in Sanford, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/sanford/): Fill water: Sanford's 17-well Floridan system with polyphosphate corrosion control.
+- [Pool Resurfacing & Repair in Kissimmee, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/kissimmee/): Fill water: Toho Water Authority's aerated Floridan Aquifer supply.
+- [Pool Resurfacing & Repair in Winter Garden, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/winter-garden/): Fill water: Winter Garden's six-well Floridan supply; pools need a Zoning Compliance Review.
+- [Pool Resurfacing & Repair in Lake Mary, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/lake-mary/): Fill water: Lake Mary's UV advanced oxidation and carbon-treated well water.
 
 ## Services
 - [Pool Resurfacing & Replastering](https://colemer.github.io/florida-pool-resurfacing-match/services/pool-resurfacing/)
