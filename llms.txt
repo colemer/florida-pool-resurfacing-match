@@ -8,10 +8,13 @@ Last updated: 2026-11-21
 - Florida's pool/spa servicing contractor scope includes interior refinishing, repair or replacement of existing equipment and substantial draining of a pool for repair or renovation, s. 489.105(3) F.S.
 - Atlantic Beach lists pools more than 24 inches deep among residential work requiring a building permit; Neptune Beach lists swimming pools.
 - Angi 2026 national average for pool resurfacing: $11,000 (range $6,000-$15,000).
+- Largo pool/spa permits require a survey, plans, a Duke Energy No Conflict letter, a Residential Pool/Spa Safety Act affidavit and pump/motor specifications (City of Largo).
 
 ## Guides
 - [Who can resurface a pool in Florida? License rules explained](https://colemer.github.io/florida-pool-resurfacing-match/guides/florida-pool-contractor-license-rules/): What Florida's pool/spa contractor definitions cover, what they exclude, and how to check a license.
 - [Your pool's fill water in Northeast Florida: hardness by utility](https://colemer.github.io/florida-pool-resurfacing-match/guides/northeast-florida-pool-fill-water/): Published hardness and treatment for JEA ZIP codes and local city systems, useful when you refill after resurfacing.
+- [Pool resurfacing in Tampa Bay: permits, fill water and costs (2026)](https://colemer.github.io/florida-pool-resurfacing-match/guides/tampa-bay-pool-resurfacing-permits-costs/): Pool permit paperwork in Largo, Dunedin and Tampa, fill-water hardness by utility, and 2026 national resurfacing costs.
+- [Pool resurfacing around Orlando: permits, water and costs (2026)](https://colemer.github.io/florida-pool-resurfacing-match/guides/orlando-area-pool-resurfacing-permits-costs/): Pool permits in Kissimmee, Winter Garden, Oviedo, Sanford and Lake Mary, local water notes, and 2026 national resurfacing costs.
 
 ## Service areas
 - [Pool Resurfacing & Repair in St. Augustine, FL](https://colemer.github.io/florida-pool-resurfacing-match/pool-resurfacing/st-augustine/): Fill water here comes from City of St. Augustine Utilities; Florida treats resurfacing as licensed pool/spa contractor work.
